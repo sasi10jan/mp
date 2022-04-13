@@ -37,7 +37,7 @@
 					<username>vatti9</username>
 					<password>Sasikala1</password>
 					<environment>Sandbox</environment>
-                    <applicationName>test-app</applicationName>
+                    <applicationName>test-app-13-04</applicationName>
                     <workerType>MICRO</workerType>
 					<businessGroup>apisero</businessGroup>
 					<properties>
