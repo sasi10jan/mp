@@ -39,6 +39,7 @@
 					<environment>Sandbox</environment>
                     <applicationName>test-app-13-04</applicationName>
                     <workerType>MICRO</workerType>
+					<objectStoreV2>true</objectStoreV2>
 					<businessGroup>apisero</businessGroup>
 					<properties>
                 		<key>value</key>
